@@ -1,0 +1,18 @@
+.footer {
+  background-color: rgb(40, 40, 40);
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  margin: 30px auto;
+}
+
+.social-container .fab {
+  font-size: 30px;
+  color: white;
+  line-height: 60px;
+}
+
+.footer .social-container {
+  display: flex;
+  justify-content: space-between;
+}
